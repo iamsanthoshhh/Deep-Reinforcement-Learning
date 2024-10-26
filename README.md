@@ -2,7 +2,7 @@
 
 ## General
 
-Research project on applying deep reinforcement learning to perform financial market predictions. Independent research conducted by Mao L. and Songlin L., guided by professor Sicun Gao, UC San Diego Jacobs School of Engineering. 
+Research project on applying deep reinforcement learning to perform financial market predictions.
 
 ## Dataset
 
